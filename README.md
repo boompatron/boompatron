@@ -15,15 +15,49 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=yellow)
-
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=yellow)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?&style=for-the-badge&logo=AWS%20Lambda&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31.svg?&style=for-the-badge&logo=Amazon%20S3&logoColor=white)
-![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-527FFF.svg?&style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
-![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Bosub%20Kim&fontSize=90&fontColor=1e140a" />
+<!--
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Boompatron!!&fontSize=90" />
+  type=Slice, Waving 공백은 %20
+urlencoding 참
+-->
 
 
+
+<!--
+<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
+-->
+<h3 align="center">Tech Stacks</h3>
+
+<h4 align="center">Main Techs</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+</p>
+
+<h4 align="center">Skill's that used at least once</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>
+</p>
+
+#### Algorithm!
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boompatron)](https://solved.ac/boompatron/)
+
+#### ETC...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boompatron)](https://github.com/anuraghazra/github-readme-stats)
