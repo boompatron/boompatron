@@ -1,0 +1,23 @@
+name: Update Gist
+
+on:
+  push:
+    branches: master
+
+  schedule:
+    - cron: "12 */12 * * *"
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Install
+        run: npm ci
+      - name: Update gist
+        run: node ./index.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 51378f6b0af9a2b0afeba00a46bd62d4
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIMEZONE: Asia/Seoul
