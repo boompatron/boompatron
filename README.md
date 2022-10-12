@@ -5,7 +5,7 @@
 urlencoding 참
 -->
 
-
+<h3 align="center">🍇 Wanna Be BE Developer... 🍎</h3>
 
 <!--
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
@@ -39,7 +39,7 @@ urlencoding 참
 <img src="https://img.shields.io/badge/AWS-EE8208?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 </p>
 
-<h4 align="center">🪄 Skill's that used at least once 🪄</h4>
+<h4 align="center">🪄 Skill's that I used at least once 🪄</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
