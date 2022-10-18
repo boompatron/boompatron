@@ -5,11 +5,11 @@
 urlencoding 참
 -->
 
-<h3 align="center">🍇 Wanna Be BE Developer... 🍎</h3>
-
 <!--
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
 -->
+
+<!--
 <h3 align="center">🛠️ Tech Stacks 🛠️</h3>
 
 <h4 align="center">🧮 Languages 🧮</h4>
@@ -68,6 +68,30 @@ urlencoding 참
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 </p>
+-->
+
+<h4 align="center">🧮 Languages 🧮</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+</p>
+
+<h4 align="center">📖 Studying 📖</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Spring-58CC02?style=flat-square&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS-EE8208?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+</p>
+
+<h4 align="center">📲 Tools 📲</h4>
+<p align="center">
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Intellij-9187FF?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyCharm-FF0000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
+</p>
 
 #### Algorithm!
 <!--
@@ -80,7 +104,7 @@ urlencoding 참
 #### Language Usage
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boompatron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 #### ETC...
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boompatron)](https://github.com/anuraghazra/github-readme-stats)
+-->
