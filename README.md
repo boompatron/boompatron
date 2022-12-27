@@ -3,6 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Boompatron!!&fontSize=90" />
   type=Slice, Waving 공백은 %20
 urlencoding 참
+https://simpleicons.org/ 아이콘 가져오는 사이트
+
 -->
 
 <!--
@@ -102,7 +104,10 @@ urlencoding 참
 #### Algorithm!
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boompatron)](https://solved.ac/boompatron/)
+https://github.com/JacobLinCool/LeetCode-Stats-Card
 -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/grapeflavoredapple?theme=forest&font=Shanti&ext=activity)
+<br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=boompatron)](https://solved.ac/boompatron)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=boompatron&theme=warm)
