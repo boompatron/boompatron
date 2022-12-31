@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Boompatron!!&fontSize=90" />
   type=Slice, Waving 공백은 %20
 urlencoding 참
-https://simpleicons.org/ 아이콘 가져오는 사이트
+https://simpleicons.org/ 아이콘 가져오는 사이트  
 
 -->
 
