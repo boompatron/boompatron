@@ -94,8 +94,9 @@ https://simpleicons.org/ 아이콘 가져오는 사이트
 <p align="center">
 <img src="https://img.shields.io/badge/Spring-58CC02?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logoSpring Security&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS-EE8208?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
-</p>
+<img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat-square&logo=Naver Cloud&logoColor=white"/></a></p>
 
 <h4 align="center">📲 Tools 📲</h4>
 <p align="center">
