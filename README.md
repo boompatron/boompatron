@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Bosub%20Kim&fontSize=90&fontColor=1e140a" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Bosub%20Kim&fontSize=90&fontColor=1e140a&animation=fadeIn" />
 <!--
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Boompatron!!&fontSize=90" />
   type=Slice, Waving 공백은 %20
