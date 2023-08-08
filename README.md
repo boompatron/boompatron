@@ -20,28 +20,26 @@ https://simpleicons.org/ 아이콘 가져오는 사이트
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fboomparon&count_bg=%233E65D1&title_bg=%23B239C2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
-
-<h4 align="center">🧮 Languages 🧮</h4>
-<p align="center">
+<h4>🧮 Languages 🧮</h4>
+<p>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 </p>
 
-<h4 align="center">📖 Studying 📖</h4>
-<p align="center">
+<h4>📖 Studying 📖</h4>
+<p>
 <img src="https://img.shields.io/badge/Spring-58CC02?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/></a>
 </p>
 
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/AWS-EE8208?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Naver Cloud-03C75A?style=flat-square&logo=Naver Cloud&logoColor=white"/></a>
 </p>
 
-<h4 align="center">📲 Tools 📲</h4>
+<h4>📲 Tools 📲</h4>
 <p align="center">
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
@@ -53,10 +51,7 @@ https://simpleicons.org/ 아이콘 가져오는 사이트
 
 
 
-<h4 align="center">🪅Algorithm🪅</h4>
-</br>
-
-<div align="center">
+<h4>🪅Algorithm🪅</h4>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=boompatron)](https://solved.ac/boompatron)
@@ -67,8 +62,7 @@ https://simpleicons.org/ 아이콘 가져오는 사이트
 <!--
 #### Language Usage
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boompatron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
+
 #### ETC...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=boompatron)](https://github.com/anuraghazra/github-readme-stats)
 -->
