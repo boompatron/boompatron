@@ -4,6 +4,7 @@
   type=Slice, Waving 공백은 %20
 urlencoding 참
 
+
 https://simpleicons.org/ 아이콘 가져오는 사이트  
 -->
 
